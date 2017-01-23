@@ -226,7 +226,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your Ruby application on OpenShift by Radim</h1>
+            <h1>Welcome to your Ruby application on OpenShift by Rm</h1>
           </hgroup>
 
 

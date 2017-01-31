@@ -174,7 +174,7 @@ h1:after {
   content: "";
   display: block;
   width: 100%;
-  height: 1px;
+r  height: 1px;
   background-color: #ddd;
 }
 h2 {
@@ -184,7 +184,7 @@ h2 {
 h3 {
   font-size: 15px;
   font-weight: 400;
-  margin: 0 0 .3em;
+o  margin: 0 0 .3em;
 }
 p {
   margin: 0 0 2em;
@@ -194,7 +194,7 @@ p + h2 {
   margin-top: 2em;
 }
 html {
-  background: #f5f5f5;
+m  background: #f5f5f5;
   height: 100%;
 }
 code {
@@ -204,7 +204,7 @@ code {
   color: #888;
 }
 pre {
-  display: block;
+i  display: block;
   padding: 13.333px 20px;
   margin: 0 0 20px;
   font-size: 13px;
@@ -226,7 +226,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your Ruby application on OpenShift by Radim. Hello from Microsoft. </h1>
+            <h1>Welcome to your Ruby application on OpenShift by RadimCimoradsky. Hello from Microsoft. </h1>
           </hgroup>
 
 

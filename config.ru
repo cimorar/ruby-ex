@@ -226,7 +226,7 @@ i  display: block;
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your Ruby application on OpenShift by RadimCimoradsky. Hello from Microsoft. </h1>
+            <h1>Welcome 2 your Ruby application on OpenShift by RadimCimoradsky. Hello from Microsoft. </h1>
           </hgroup>
 
 

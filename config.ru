@@ -201,7 +201,7 @@ code {
   background-color: white;
   border: 1px solid #ccc;
   padding: 1px 5px;
-  color: #888;
+3  color: #888;
 }
 pre {
 i  display: block;
@@ -226,7 +226,7 @@ i  display: block;
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome 2 your Ruby application on OpenShift by RadimCimoradsky. Hello from Microsoft. </h1>
+            <h1>Welcome 22 your Ruby application on OpenShift by RadimCimoradsky. Hello from Microsoft. </h1>
           </hgroup>
 
 
